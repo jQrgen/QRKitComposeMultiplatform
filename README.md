@@ -109,7 +109,7 @@ QrScanner(
 * `customOverlay`: Allows the user to provide a custom overlay design. If no custom overlay is provided, a default one is applied.<br>
 * `permissionDeniedView`: Allows the user to provide a custom view when camera permission is denied. If no custom view is provided, a default one is shown.<br>
 
-🔗 For more details, follow the implementation in [QrScannerScreen.kt](https://github.com/Chaintech-Network/QRKitComposeMultiplatform_org/blob/qrkit/composeApp/src/commonMain/kotlin/org/qrcodedemo/app/ui/QrScannerScreen.kt)
+🔗 For more details, follow the implementation in [QrScannerScreen.kt](https://github.com/Chaintech-Network/QRKitComposeMultiplatform/blob/main/composeApp/src/commonMain/kotlin/org/qrcodedemo/app/ui/QrScannerScreen.kt)
 
 <br>
 
